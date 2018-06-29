@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PackageInfo","Info about a Node package"]]});
